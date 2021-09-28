@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gst_percent">
+        <item>@string/gst1</item>
+        <item>@string/gst2</item>
+        <item>@string/gst3</item>
+        <item>@string/gst4</item>
+    </string-array>
+</resources>

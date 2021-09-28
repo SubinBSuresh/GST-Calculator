@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GSTCalculator</string>
+
+
+    <string name="gst1">5</string>
+    <string name="gst2">12</string>
+    <string name="gst3">18</string>
+    <string name="gst4">28</string>
+</resources>
